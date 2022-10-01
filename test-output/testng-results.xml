@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-09T12:18:18 PDT" name="Default suite" finished-at="2022-05-09T12:18:18 PDT" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2022-05-09T12:18:18 PDT" name="Default test" finished-at="2022-05-09T12:18:18 PDT" duration-ms="65">
+      <class name="PracticeTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="setUp" finished-at="2022-05-09T12:18:18 PDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="login" finished-at="2022-05-09T12:18:18 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="launchBrowser" finished-at="2022-05-09T12:18:18 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="enterURL" finished-at="2022-05-09T12:18:18 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="googleTitleTest()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="googleTitleTest" finished-at="2022-05-09T12:18:18 PDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="logOut" finished-at="2022-05-09T12:18:18 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="enterURL" finished-at="2022-05-09T12:18:18 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="searchTest()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="searchTest" finished-at="2022-05-09T12:18:18 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="logOut" finished-at="2022-05-09T12:18:18 PDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="closeBrowser" finished-at="2022-05-09T12:18:18 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="deleteAllCookies" finished-at="2022-05-09T12:18:18 PDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method is-config="true" signature="generateTestReport()[pri:0, instance:PracticeTests@4e7912d8]" started-at="2022-05-09T12:18:18 PDT" name="generateTestReport" finished-at="2022-05-09T12:18:18 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateTestReport -->
+      </class> <!-- PracticeTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
